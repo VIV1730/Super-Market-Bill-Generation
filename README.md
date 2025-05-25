@@ -6,28 +6,28 @@ The Vamsy Supermarket Billing System is a Python-based program designed to simpl
 ## Objective
 The objective of this project is to:
 
-Automate the billing process for a supermarket.
+1. Automate the billing process for a supermarket.
 
-Provide a structured list of available items with predefined prices.
+2. Provide a structured list of available items with predefined prices.
 
-Allow customers to select items and quantities dynamically.
+3. Allow customers to select items and quantities dynamically.
 
-Calculate total price with GST (5%) for accurate billing.
+4, Calculate total price with GST (5%) for accurate billing.
 
-Generate a formatted bill with details of purchased items.
+5. Generate a formatted bill with details of purchased items.
 
 ## Features
-Displays a predefined list of available items.
+1. Displays a predefined list of available items.
 
-Allows user input for item selection and quantity.
+2. Allows user input for item selection and quantity.
 
-Computes total cost and applies GST.
+3. Computes total cost and applies GST.
 
-Formats and prints a structured bill.
+4. Formats and prints a structured bill.
 
-Handles cases where items are unavailable.
+5. Handles cases where items are unavailable.
 
-Provides error handling for invalid inputs.
+6. Provides error handling for invalid inputs.
 
 ## Installation & Usage
 Install Python (if not installed) from Python.org.
