@@ -1,7 +1,7 @@
 # Super-Market-Bill-Generation
 
 ## Introduction
-The Vamsy Supermarket Billing System is a Python-based program designed to simplify the billing process for a supermarket. It allows customers to select items, specify quantities, and generate a structured bill with GST calculations. This system makes the checkout process efficient, accurate, and user-friendly.
+The Vivek Supermarket Billing System is a Python-based program designed to simplify the billing process for a supermarket. It allows customers to select items, specify quantities, and generate a structured bill with GST calculations. This system makes the checkout process efficient, accurate, and user-friendly.
 
 ## Objective
 The objective of this project is to:
